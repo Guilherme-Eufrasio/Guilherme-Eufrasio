@@ -7,8 +7,6 @@ O que eu estou aprendendo:
 
 ## Projetos 
 1. Spotpy
-  Eu fiz junto dos meus amigos um player de aúdio.
-  Que consiste em baixar uma música e colocar ela para tocar, podendo pular a música, deletar a música, retroceder a música, pausar a música e escolher as músicas baixadas.
 2. Exercícios Python
 3. Exercícios Portugol
 4. HTML
