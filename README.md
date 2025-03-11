@@ -14,6 +14,9 @@
 - 🖥️ Exercícios Python
 - 🖥️ Exercícios Portugol
 - 🖥️ HTML
+
+## 📍 Contatos
+- 📧 Email: guilhermeeufrasiobarbosa@gmail.com
 <!--
 **Guilherme-Eufrasio/Guilherme-Eufrasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
