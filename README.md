@@ -3,7 +3,7 @@
 - 🌎 Sorocaba, SP
 - 📚 Cursando Desenvolvimento de Sistemas
 - 💼 Desempregado
-- 📖 O que eu estou aprendendo:
+## 📖 O que eu estou aprendendo:
 - 🖥️ FrontEnd
 - 🖥️ Python
 - 🖥️ HTML
