@@ -2,7 +2,7 @@
 - 👤 Olá, eu sou o Guilherme Eufrasio e tenho 17 anos
 - 🌎 Sorocaba, SP
 - 📚 Cursando Desenvolvimento de Sistemas
-- 💼 Desempregado
+- 💼 Disponível no Mercado de Trabalho
 ## 📖 O que eu estou aprendendo:
 - 🖥️ FrontEnd
 - 🖥️ Python
